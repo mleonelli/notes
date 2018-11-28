@@ -26,6 +26,7 @@
 <p>
 
 [PMBOK 6th edition](https://www.pmi.org/pmbok-guide-standards/foundational/pmbok/sixth-edition)
+
 [LinkedIn Cert Prep - DONE](https://www.linkedin.com/learning/cert-prep-project-management-professional-pmp/develop-project-charter)
 </p>
 </details>
@@ -35,8 +36,11 @@
 <p>
 
 [Firebase](https://console.firebase.google.com/u/0/)
+
 [DialogFlow](https://console.dialogflow.com)
+
 [Actions Console](https://console.actions.google.com/u/0/)
+
 </p>
 </details>
 
