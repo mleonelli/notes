@@ -35,6 +35,8 @@
 <details><summary>Google</summary>
 <p>
 
+[Conversational Design](https://designguidelines.withgoogle.com/conversation/conversation-design/what-is-conversation-design.html#what-is-conversation-design-conversation-for-computers)
+
 [Firebase](https://console.firebase.google.com/u/0/)
 
 [DialogFlow](https://console.dialogflow.com)
