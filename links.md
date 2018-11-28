@@ -43,6 +43,8 @@
 
 [Actions Console](https://console.actions.google.com/u/0/)
 
+[Codelabs - Now on Actions Level 3](https://codelabs.developers.google.com/codelabs/actions-3/index.html?index=..%2F..index#4)
+
 </p>
 </details>
 
