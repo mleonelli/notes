@@ -37,6 +37,8 @@
 
 [Conversational Design](https://designguidelines.withgoogle.com/conversation/conversation-design/what-is-conversation-design.html#what-is-conversation-design-conversation-for-computers)
 
+[Conversational Design Article Giangola](https://design.google/library/conversation-design-speaking-same-language/)
+
 [Firebase](https://console.firebase.google.com/u/0/)
 
 [DialogFlow](https://console.dialogflow.com)
@@ -44,6 +46,7 @@
 [Actions Console](https://console.actions.google.com/u/0/)
 
 [Codelabs - Now on Actions Level 3](https://codelabs.developers.google.com/codelabs/actions-3/index.html?index=..%2F..index#4)
+
 
 </p>
 </details>
