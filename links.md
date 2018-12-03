@@ -51,3 +51,11 @@
 </p>
 </details>
 
+<details><summary>AWS</summary>
+<p>
+
+[Skill Promotion](https://developer.amazon.com/fr/alexa-skills-kit/alexa-developer-skills-promotion)
+
+</p>
+</details>
+
