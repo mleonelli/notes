@@ -55,7 +55,7 @@
 <p>
 
 [Skill Promotion](https://developer.amazon.com/fr/alexa-skills-kit/alexa-developer-skills-promotion)
-
+[Hello World Alexa](https://tutorials.botsfloor.com/how-to-build-a-hello-world-alexa-skill-bcea0d01ee8f)
 </p>
 </details>
 
