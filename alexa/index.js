@@ -8,10 +8,10 @@ exports.handler = (event, context, callback) => {
                     message = 'Ciao, sono la tua calcolatrice scientifica. Prova a chiedermi un logaritmo!';
                     break;
                 case "fr-FR":
-                    message = 'Ciao, sono la tua calcolatrice scientifica. Prova a chiedermi un logaritmo!';
+                    message = 'Salut, je suis votre calculatrice scientifique. Essayez de me demander un logarithme!';
                     break;
                 default:
-                    message = 'Ciao, sono la tua calcolatrice scientifica. Prova a chiedermi un logaritmo!';
+                    message = 'Hi, I\'m your scientific calculator. Try asking me a logarithm!';
                     break;
             }
             
@@ -28,10 +28,10 @@ exports.handler = (event, context, callback) => {
                         message = 'Il logaritmo in base ' + base + ' di ' + numero + ' è ';
                         break;
                     case "fr-FR":
-                        message = 'Il logaritmo in base ' + base + ' di ' + numero + ' è ';
+                        message = 'Le logarithme sur base ' + base + ' de ' + numero + ' est ';
                         break;
                     default:
-                        message = 'Il logaritmo in base ' + base + ' di ' + numero + ' è ';
+                        message = 'The logarithm in base ' + base + ' of ' + numero + ' is ';
                         break;
                 }
                 if(base === 10){
@@ -52,10 +52,10 @@ exports.handler = (event, context, callback) => {
                         message = 'Il logaritmo naturale di ' + numero + ' è ';
                         break;
                     case "fr-FR":
-                        message = 'Il logaritmo naturale di ' + numero + ' è ';
+                        message = 'Le logarithme naturel de ' + numero + ' est ';
                         break;
                     default:
-                        message = 'Il logaritmo naturale di ' + numero + ' è ';
+                        message = 'Tha natural logarithm of ' + numero + ' is ';
                         break;
                 }
                 message += Math.log(numero);
@@ -66,10 +66,10 @@ exports.handler = (event, context, callback) => {
                         callback(null, buildResponse("Mi dispiace, non ho capito. Puoi ripetere?"));
                         break;
                     case "fr-FR":
-                        callback(null, buildResponse("Mi dispiace, non ho capito. Puoi ripetere?"));
+                        callback(null, buildResponse("Je suis désolé, je n'ai pas compris. Pouvez-vous répéter?"));
                         break;
                     default:
-                        callback(null, buildResponse("Mi dispiace, non ho capito. Puoi ripetere?"));
+                        callback(null, buildResponse("I'm sorry I did not understand. Can you repeat?"));
                         break;
                 }
                 
