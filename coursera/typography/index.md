@@ -22,3 +22,19 @@ Terminal - end of stroke which can be
             Spur 
 <a href="https://imgur.com/tI9KrIw"><img src="https://i.imgur.com/tI9KrIw.png" title="source: imgur.com" /></a>
 
+x-height baseline
+ over ascender
+ below descender
+ cap-height height of capitale letters
+ 
+ Size of a type - box, the rectangle referring to the metal piece
+ Vertical points where 
+  1 inch is 72 points
+  12 points is 1 pica
+  6 picas in 1 inch
+  
+  em - horizontal space as large as the vertical height
+  an - half size
+
+
+
